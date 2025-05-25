@@ -30,3 +30,5 @@ I'm learning Python to become a software engineer at Google. This project is a s
 
 ## Связь
 Если у вас есть идеи, пишите на мой GitHub!
+
+![Dog](https://cdn.pixabay.com/photo/2020/03/31/19/20/dog-4988985_960_720.jpg)
